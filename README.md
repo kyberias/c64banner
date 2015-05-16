@@ -12,4 +12,4 @@ LOAD "BANNER",8
 RUN
 TEXT ? <text to print>
 FILENAME ? <output file name on device 8>
-```basic
+```
